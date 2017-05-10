@@ -3,4 +3,10 @@
 
 @import "{{ site.theme }}";
 
-.page-header { visibility: hidden;}
+.page-header { 
+  visibility: hidden;
+  height: 0; 
+  padding: 0;
+}
+
+
