@@ -1,4 +1,4 @@
-# [J V Araújo](svcnt.github.io)
+# [J V Araújo](http://svcnt.github.io)
 
 Hola. Soy José Vicente Araújo y aquí guardo algunos documentos. También estoy en:
 - [La Duna Digital](http://dunadigital.com)
