@@ -8,7 +8,7 @@ Esa imagen exageradamente alargada (impresa ocupa unos 12 metros de ancho y unos
 
 Ha sido generada a partir de software propio para la exposición **BBAA88** (con motivo del 30 aniversario de la promoción 83-88 de la Facultad de Bellas Artes de la U. de Sevilla). Los temas de la exposición eran _la memoria_ y _los años 80_.
 
-###¿Por qué Blade Runner?
+### ¿Por qué Blade Runner?
 
 La película contribuyó con fuerza a establecer una línea estética de éxito en los ochenta (estilo atemporal, anclado tanto en los años 50 como en anticipaciones del SXXI; escenarios sombríos salpicados de brillante tecnología; ideal de belleza femenina que oscila entre la sofisticación -Sean Young- y el salvajismo -Daryl Hannah-). La historia transcurre en noviembre de 2019, enlazando el momento de su estreno (cuando estábamos a punto de comenzar nuestros estudios) con el actual.
 
