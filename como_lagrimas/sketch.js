@@ -85,6 +85,7 @@ function autoScroll(){
   }
 }
 
+// Mouse
 // Scroll manual
 function mouseDragged(){
   isDragged = true;
@@ -96,5 +97,20 @@ function mouseDragged(){
 }
 // Activa scroll automático
 function mouseReleased(){
+  isDragged = false;
+}
+
+// Touchscreen
+// Scroll manual
+function touchMoved(){
+  isDragged = true;
+  mover.x = mouseX - pmouseX;
+  mover.mult(3);
+  for(let i = 0; i < 3; i++){
+    imgPos[i].add(mover);
+  }
+}
+// Activa scroll automático
+function touchEnded(){
   isDragged = false;
 }
