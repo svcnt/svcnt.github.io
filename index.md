@@ -5,7 +5,5 @@ Hola. Soy José Vicente Araújo y aquí guardo algunos documentos. También esto
 - [DeTarifa.net](http://detarifa.net)
 
 ----
-## Documentos
-- [Twitterbot paso a paso](twitterbot/TwitterBot_paso_a_paso.md)
 
 ![](img/01.jpg)
