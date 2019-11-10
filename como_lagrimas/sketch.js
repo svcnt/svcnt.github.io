@@ -104,11 +104,12 @@ function mouseReleased(){
 // Scroll manual
 function touchMoved(){
   isDragged = true;
-  mover.x = movedX;
+  mover.x = mouseX - pmouseX;
   mover.mult(3);
   for(let i = 0; i < 3; i++){
     imgPos[i].add(mover);
   }
+  return false;
 }
 // Activa scroll automático
 function touchEnded(){
