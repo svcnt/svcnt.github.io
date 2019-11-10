@@ -109,7 +109,6 @@ function touchMoved(){
   for(let i = 0; i < 3; i++){
     imgPos[i].add(mover);
   }
-  return false;
 }
 // Activa scroll automático
 function touchEnded(){
