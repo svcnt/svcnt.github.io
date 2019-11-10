@@ -1,0 +1,24 @@
+html, body {
+
+}
+
+body {
+  color: #668899;
+  background-color: #111111
+}
+canvas {
+  vertical-align: top;
+  align: center
+}
+h1 {
+  color: #668899;
+  font-family: "Calibri", sans-serif;
+  font-weight: 100;
+  font-size: 1.5em;
+  clear: both;
+}
+#sketch-holder {
+  /*border: solid 1px #333333;
+  padding: 4px;
+  max-width: 1280px;*/
+}
