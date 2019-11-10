@@ -104,7 +104,7 @@ function mouseReleased(){
 // Scroll manual
 function touchMoved(){
   isDragged = true;
-  mover.x = mouseX - pmouseX;
+  mover.x = movedX;
   mover.mult(3);
   for(let i = 0; i < 3; i++){
     imgPos[i].add(mover);
