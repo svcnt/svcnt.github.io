@@ -15,3 +15,7 @@ La película contribuyó con fuerza a establecer una línea estética de éxito 
 Al registrar sólo la milésima parte de cada fotograma, reconocer las imágenes originales se vuelve difícil pero no del todo imposible. Hay fragmentos en los que se aprecian algunos escenarios y personajes. El espectador se ve obligado a recomponer los escasos fragmentos reconocibles con su recuerdo de la película. Se le anima así a recordar algo que casi todos vimos por primera vez en la época que se conmemora.
 
 Por limitaciones de montaje, a la exposición se presentó una imagen impresa de 50 x 50 cm. Para que pueda apreciarse de un modo más cercano a como fue concebida, publico aquí la imagen en sus dimensiones originales. Para poder navegar por toda su longitud puedes pulsar y arrastrar a izquierda o derecha el fragmento que se muestra en pantalla.
+
+[Haz clic aquí para abrir la aplicación][ff42e6c2].
+
+  [ff42e6c2]: /como_lagrimas/ "Clic aquí"
