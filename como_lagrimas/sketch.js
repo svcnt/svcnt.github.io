@@ -87,6 +87,7 @@ function autoScroll(){
 // Mouse
 // Scroll manual
 function mouseDragged(){
+  println(mouseX);
   isDragged = true;
   mover.x = mouseX - pmouseX;
   mover.mult(3);
